@@ -1,0 +1,12 @@
+.cyan input[type=text]:focus:not([readonly]) {
+    border:0 solid transparent;
+    border-bottom: 1px solid #4dd0e1;
+    }
+
+.input{
+    width:300px;
+    border: 0 solid transparent;
+    border-bottom: 1px solid #4dd0e1;
+    outline:none;
+    margin-top:20px;
+}

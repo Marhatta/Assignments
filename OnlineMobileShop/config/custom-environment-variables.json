@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey":"products_jwtPrivateKey",
+    "db":"dbString"
+}

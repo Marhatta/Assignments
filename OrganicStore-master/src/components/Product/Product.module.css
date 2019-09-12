@@ -1,0 +1,23 @@
+.image{
+    width:280px;
+    height:200px;
+    border-radius:3px;
+}
+
+.card{
+    width:300px;
+    height:400px;
+    background-color:#f2f2f2;
+    margin:5px;
+    border-radius:5px;
+    display: inline-block
+}
+
+.card:hover{
+    -moz-box-shadow: 2px 3px 0px #f2f2f2;
+    -webkit-box-shadow: 2px 3px 0px #f2f2f2;
+    box-shadow: 2px 3px 0px #f2f2f2;
+    transform:scale(1.1);
+    transition: .1s all;
+    z-index:999
+}

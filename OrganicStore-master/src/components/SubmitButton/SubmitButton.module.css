@@ -1,0 +1,9 @@
+.button{
+    border-radius: 30px;
+    background-color:tomato;
+    color:whitesmoke;
+    outline:none;
+    margin-bottom:20px;
+    border:0 solid transparent;
+    width:100px;
+}

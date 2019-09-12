@@ -1,0 +1,11 @@
+.task{
+    height:50px;
+    padding: 5px;
+    margin:5px;
+    background-color: gray;
+    color:white;
+}
+
+.status{
+    float:right
+}
